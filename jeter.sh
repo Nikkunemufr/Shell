@@ -1,4 +1,10 @@
 #!/bin/bash
+
+#################################
+#	Created by Alexis MORTELIER	#
+#		All Right Reserved		#
+#################################
+
 rep=$(pwd)
 echo $rep
 cd ;

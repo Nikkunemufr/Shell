@@ -1,4 +1,10 @@
 #!/bin/bash
+
+#################################
+#	Created by Alexis MORTELIER	#
+#		All Right Reserved		#
+#################################
+
 for i in $@; do
   echo $i
 done;
