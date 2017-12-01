@@ -1,7 +1,7 @@
 #!/bin/bash
 #################################
 #	Created by Alexis MORTELIER	#
-#		All Right Reserved		#
+#		All Rights Reserved		#
 #################################
 
 for i in *.gif;do mv $i ${i%gif}old;done
